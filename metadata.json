@@ -1,0 +1,5 @@
+{
+  "name": "RatRepel Ultra",
+  "description": "A high-frequency ultrasonic sound generator designed to repel rodents using local audio synthesis to save data.",
+  "requestFramePermissions": []
+}
